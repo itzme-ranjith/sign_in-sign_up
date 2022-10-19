@@ -1,0 +1,31 @@
+body {
+    height: 100%;
+    background-image: linear-gradient(to bottom right, rgb(188, 0, 221), rgb(253, 240, 255));
+    background-repeat: no-repeat;
+}
+.main{
+    width: 550px;
+    margin: 10% auto;
+    border-radius: 4px;
+    padding: 2.5rem;
+    background-color: white;
+    text-align: center;
+}
+form-floating{
+    width: 100px;
+}
+.checkbox mb-3{
+    text-align:left;
+}
+.profile-img {
+    width: 100px;
+    margin: 0 auto;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
